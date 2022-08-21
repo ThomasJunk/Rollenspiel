@@ -1,0 +1,1 @@
+Die alte verfallene Mühle dient als Unterschlupf für eine Bande von vagabundierenden Goblins

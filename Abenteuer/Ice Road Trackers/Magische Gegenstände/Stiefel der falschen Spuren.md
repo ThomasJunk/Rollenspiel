@@ -1,0 +1,1 @@
+Magische Stiefel, die es dem menschlichen Träger erlauben, spuren einer beliebigen anderen humanoiden Rasse zu hinterlassen.

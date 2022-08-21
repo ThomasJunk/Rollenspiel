@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "9f38d0fcd1218c2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "91c00af58f3c9e8e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Abenteuer/Ice Road Trackers/Orte/Unterwegs.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06fbcd5f97e8caa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8e5e8cc784ab34b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ed51753f783d180",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f69e475a29ac205e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96fdebd7b6684406",
+    "type": "split",
+    "children": [
+      {
+        "id": "927f6bcfdfd7c5ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cf31c190fe94c52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Abenteuer/Ice Road Trackers/Orte/Unterwegs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "91c00af58f3c9e8e",
+  "lastOpenFiles": [
+    "Abenteuer/Ice Road Trackers/Setting.md",
+    "Abenteuer/Ice Road Trackers/Orte/Unterwegs.md",
+    "Abenteuer/Ice Road Trackers/Orte/Höhle von Mama Tusk.md",
+    "Abenteuer/Ice Road Trackers/Orte/Eisrutsche.md",
+    "Abenteuer/Ice Road Trackers/Monster/Schattenwolf.md",
+    "Abenteuer/Ice Road Trackers/Personen/Cailean Keegan.md",
+    "Abenteuer/Ice Road Trackers/Personen/Mama Tusk.md",
+    "Abenteuer/Ice Road Trackers/Personen/Spritzel.md",
+    "Abenteuer/Ice Road Trackers/Orte/Redrun.md",
+    "Abenteuer/Ice Road Trackers/Orte/Redwaters Lake.md"
+  ]
+}

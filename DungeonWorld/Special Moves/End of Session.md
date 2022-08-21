@@ -1,0 +1,5 @@
+- Resolve Bonds: mark XP
+- Alignment: mark XP
+-  Did we learn something new and important about the world: mark XP
+-  Did we overcome a notable monster or enemy: mark XP
+-  Did we loot a memorable treasure: mark XP
