@@ -2,9 +2,8 @@
 
 |Concept|Aim|Tone|Subject Matter|
 |-|-|-|-|
-|Mystery Setting|Lebensabschnitt|düster|Tod, Sterben, Verwesung, kein Splatter|
-|Magie ist selten||geheimnisvoll||
-|||Grusel, kein Horror||
+|Dungeon World|Oneshot|düster|Tod, Sterben, Verwesung, kein Splatter|
+||||Lines & Veils, X-Card, Flags, Stars & Wishes|
 
 ## Überblick
 ### Verlauf

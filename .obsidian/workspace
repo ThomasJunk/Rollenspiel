@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Abenteuer/Ice Road Trackers/Orte/Unterwegs.md",
+            "file": "Abenteuer/Ice Road Trackers/Personen/Mama Tusk.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abenteuer/Ice Road Trackers/Orte/Unterwegs.md",
+                "file": "Abenteuer/Ice Road Trackers/Personen/Mama Tusk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "91c00af58f3c9e8e",
   "lastOpenFiles": [
+    "Abenteuer/Ice Road Trackers/Personen/Cailean Keegan.md",
     "Abenteuer/Ice Road Trackers/Setting.md",
+    "Abenteuer/Auge um Auge/Setting.md",
+    "DungeonWorld/Moves/Defend.md",
+    "DungeonWorld/Moves/Aid or Interfere.md",
+    "DungeonWorld/Moves/Discern Realtities.md",
     "Abenteuer/Ice Road Trackers/Orte/Unterwegs.md",
     "Abenteuer/Ice Road Trackers/Orte/Höhle von Mama Tusk.md",
     "Abenteuer/Ice Road Trackers/Orte/Eisrutsche.md",
-    "Abenteuer/Ice Road Trackers/Monster/Schattenwolf.md",
-    "Abenteuer/Ice Road Trackers/Personen/Cailean Keegan.md",
-    "Abenteuer/Ice Road Trackers/Personen/Mama Tusk.md",
-    "Abenteuer/Ice Road Trackers/Personen/Spritzel.md",
-    "Abenteuer/Ice Road Trackers/Orte/Redrun.md",
-    "Abenteuer/Ice Road Trackers/Orte/Redwaters Lake.md"
+    "Abenteuer/Ice Road Trackers/Monster/Schattenwolf.md"
   ]
 }

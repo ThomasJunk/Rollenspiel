@@ -16,7 +16,6 @@
 Der Druide starb und Mama Tusk übernahm die
 Verwaltung der Tiere in der Obhut des Druiden. (Dies
 stimmt nur teilweise. Der Druide war korrumpiert und ist
-noch am Leben, und Mutter Tusk floh mit ebenso vielen vor ihm
+noch am Leben, und Mama Tusk floh vor ihm mit so vielen
 Kreaturen, wie sie rekrutieren konnte. Sie fürchtete, er würde die 
-Tiere in seiner blutrünstigen Tierarmee benutzen. Sie will nicht
-um dies zu diesem Zeitpunkt mit den Charakteren zu besprechen.)
+Tiere in seiner blutrünstigen Tierarmee benutzen.)

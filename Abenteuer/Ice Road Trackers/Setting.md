@@ -17,7 +17,7 @@
 
 ## Leitfragen
 
-- Was hofft Ihr am "Rückgrat der Welt" zu finden?
+- Was hofft Ihr am "Grat der Welt" zu finden?
 - Warum strafte die Göttin Auril den Norden mit anhaltender Dunkelheit?
 - Warum schart der Druide Cailean Keegan eine blutrünstige Tierarmee um sich?
 - Habt Ihr einen engen Freund / Verwandten in der Natur verloren?
